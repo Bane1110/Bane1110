@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Full stack Web Developer<br>🔭Currently learning ASP.NET.<br>📪Contact me at "pualicbranko@gmail.com".<br>2️⃣Years of experience.<br>👷‍♂️Currently working on self project Chatify social media app.
+💻Full stack Web Developer<br>🔭Currently learning ASP.NET.<br>📪Contact me at "pualicbranko@gmail.com".<br>2️⃣Years of experience.<br>👷‍♂️Currently working on a collaborative project, JourneyEase travel booking web application.
 
 
 # 💻 Tech Stack:
