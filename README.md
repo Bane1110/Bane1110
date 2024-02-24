@@ -1,5 +1,5 @@
 ## About me
-I am a full-stack developer with 3 years of experience, gained through a combination of formal education and personal study.
+With three years of full-stack development experience, gained through a combination of formal education and personal study, I offer a blend of technical expertise and creative problem-solving skills. Proficient in front-end and back-end technologies, I craft seamless digital experiences that meet user needs and business objectives. Committed to continuous learning, I embrace new challenges to deliver innovative solutions.
 
 ## Technologies
 - Angular
